@@ -242,10 +242,9 @@ footer {
     }
 
     .SecImg video {
-        top: 97px;
-        left: 54px;
+        top: 83px;
+        left: 36px;
         width: 75%;
-
     }
 
     nav {
@@ -273,6 +272,10 @@ footer {
         font-size: 32px;
     }
 
+    .faqbox {
+        font-size: 18px;
+    }
+
     section.first>div :nth-child(1) {
         font-size: 32px;
     }
@@ -284,6 +287,6 @@ footer {
     .footer {
         grid-template-columns: 1fr 1fr;
         gap: 50px;
-    } 
-
+    }
+    
 }
